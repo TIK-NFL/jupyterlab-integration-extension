@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.2
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: admir.obralija@tik.uni-stuttgart.de
+author_name: Admir Obralija
+data_format: string
+file_extension: ''
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: jupyterlab-integration-extension
+mimetype: ''
+mimetype_name: ''
+project_short_description: A JupyterLab extension for integrated Jupyter operation.
+python_name: jupyterlab_integration_extension
+repository: ''
+test: false
+viewer_name: ''
+
