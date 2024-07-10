@@ -1,6 +1,6 @@
-# jupyterlab_integration_extension
+# Jupyterlab integration extension
 
-[![Github Actions Status](/workflows/Build/badge.svg)](/actions/workflows/build.yml)
+[![Github Actions Status](https://github.com/TIK-NFL/jupyterlab-integration-extension/workflows/Build/badge.svg)](https://github.com/TIK-NFL/jupyterlab-integration-extension/actions/workflows/build.yml)
 
 A JupyterLab extension for integrated Jupyter operation.
 
